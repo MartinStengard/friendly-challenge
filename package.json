@@ -69,7 +69,7 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "^7.10.4",
+    "@babel/runtime-corejs3": "^7.16.8",
     "core-js": "^3.6.5",
     "friendly-pow": "0.2.2",
     "object-assign-polyfill": "^0.1.0",
