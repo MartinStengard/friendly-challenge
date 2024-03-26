@@ -75,6 +75,6 @@
     "object-assign-polyfill": "^0.1.0",
     "promis": "^1.1.4",
     "url-polyfill": "^1.1.10",
-    "whatwg-fetch": "^3.4.1"
+    "whatwg-fetch": "^3.6.2"
   }
 }
